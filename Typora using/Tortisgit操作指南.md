@@ -47,12 +47,10 @@
 
 路径如下，两端加<>即可，内部网址可以更改，但是不能出错
 
-img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/测试小狗.jpg"
+img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/Typora using/配置结果.png"
 
 <img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/测试小狗.jpg" style="zoom: 25%;" />
 
-<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/测试2.jpg" style="zoom: 25%;" />
-
-
+<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/Typora using/配置结果.png" style="zoom:50%;" >
 
 大获成功，之后如果需要上传则需要在picgo的github图库修改文件夹了，按需要修改即可，上图是typora  using文件夹图
