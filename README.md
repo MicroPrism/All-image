@@ -1,2 +1,2 @@
 # All-image
-github图床用于存放图片
+github图床,仅用于存放图片
