@@ -15,7 +15,7 @@
 
 + **标题**  #与字符中间需要加空格
 
-![](https://raw.githubusercontent.com/MicroPrism/All-image/main/Typora using/标题.png)
+<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/Typora using/标题.png" style="zoom: 67%;" />
 
 + **代码块**  常用于添加代码，便于观看
 
@@ -35,7 +35,7 @@
 | ---- | ---- |
 |      |      |
 
-+ 图床设置-下载[picgo2.30正式版]([Release 2.3.0 · Molunerfinn/PicGo (github.com)](https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.0))    [github图床设置过程](https://blog.csdn.net/yefcion/article/details/88412025)
++ 图床设置-下载[picgo2.30正式版](https://github.com/Molunerfinn/PicGo/releases/tag/v2.3.0)    [github图床设置过程](https://blog.csdn.net/yefcion/article/details/88412025)
 
 <img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/Typora using/picgo配置github.png" style="zoom: 67%;" />
 
@@ -45,8 +45,14 @@
 
 添加图床内的图片：在picgo上上传然后复制url，此后就可以调用 ，如下小狗就是调用的github图床
 
-<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/5eed90b5-37c7-4b0d-a8c6-a4265634c3be.jpg" style="zoom: 25%;" />
+路径如下，两端加<>即可，内部网址可以更改，但是不能出错
 
-<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/Typora using/20221004194708.png" style="zoom: 50%;" />
+img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/测试小狗.jpg"
+
+<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/测试小狗.jpg" style="zoom: 25%;" />
+
+<img src="https://raw.githubusercontent.com/MicroPrism/All-image/main/test/测试2.jpg" style="zoom: 25%;" />
+
+
 
 大获成功，之后如果需要上传则需要在picgo的github图库修改文件夹了，按需要修改即可，上图是typora  using文件夹图
